@@ -1,2 +1,3 @@
-# template-TextFileFinder
-TextFileFinder
+# TextFileFinder 
+
+See [README](TextFileFinder/README.md) for details.
